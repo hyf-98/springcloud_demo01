@@ -13,6 +13,8 @@ public class BootUserApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(BootUserApplication.class, args);
+
+
     }
 
 }
