@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/boot-order/boot-order.iml" filepath="$PROJECT_DIR$/boot-order/boot-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot-user/boot-user.iml" filepath="$PROJECT_DIR$/boot-user/boot-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/father.iml" filepath="$PROJECT_DIR$/.idea/father.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall/gmall.iml" filepath="$PROJECT_DIR$/gmall/gmall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order/order.iml" filepath="$PROJECT_DIR$/order/order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user/user.iml" filepath="$PROJECT_DIR$/user/user.iml" />
+    </modules>
+  </component>
+</project>
